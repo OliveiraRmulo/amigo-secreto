@@ -4,6 +4,12 @@
 Este projeto permite que você adicione amigos à lista e, em seguida, sorteie um nome aleatório de forma simples e rápida. Perfeito para o seu amigo secreto de fim de ano! 🎄🎁
 
 ---
+## 🌐 Acesse o site ✨
+Clique no link abaixo para acessar a versão online do sorteador:
+
+[**Acesse o Sorteador de Amigo Secreto**](https://oliveirarmulo.github.io/amigo-secreto/) 🌟
+
+---
 
 ## Funcionalidades ✨
 - **Adicionar Amigos**: Insira os nomes dos amigos para incluí-los na lista.
